@@ -1,4 +1,4 @@
-WRLDGATE™ — Digital World Gateway™
+WRLDGATE™ — PATENT PENDING
 
 WRLDGATE™ is a Digital World Gateway — a unified system that enables access, navigation, and interaction across digital environments through a single portal interface.
 
