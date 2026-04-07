@@ -70,23 +70,6 @@ All associated systems, designs, concepts, and technologies are proprietary.
 
 ⸻
 
-Positioning
-
-WRLDGATE™ is the gateway to digital worlds.
-
-A unified entry point where users do not browse environments — they enter them.
-
-[ User ]
-   ↓
-[ Portal Interface ]
-   ↓
-[ Access Layer ]
-   ↓
-[ Navigation Engine ]
-   ↓
-[ Connected Environments ]
-   ↓
-[ External Platforms / Worlds ]
 
 Contribution Model
 
@@ -99,23 +82,6 @@ Development Status
 
 WRLDGATE™ is in active development.
 
-Current focus areas include:
-	•	Portal interface and interaction system
-	•	User entry and session flow
-	•	Core system architecture and framework
-
 
 Future Expansion
-
-WRLDGATE™ is being designed to support:
-
-	•	Multi-environment interoperability
-	•	Persistent identity across worlds
-	•	Scalable digital infrastructure layers
-	•	Advanced interaction systems
-
-Additional modules and capabilities will be introduced in future phases.
-
-
-
 
