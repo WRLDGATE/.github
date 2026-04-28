@@ -1,10 +1,17 @@
 <p align="center">
-  <img src="wrldgate-logo.png.PNG" width="220"/>
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/wrldgate-logo.png" width="260"/>
 </p>
 
-<h1 align="center">Search. Enter. Experience.</h1>
+<h1 align="center">WRLDGATE™</h1>
 
 <p align="center"><strong>The gateway to any world.</strong></p>
 
-# .github
-WRLDGATE™ — The Digital World Gateway. A unified portal for accessing and navigating digital environments.
+---
+
+WRLDGATE™ is a digital world gateway that transforms how people discover and access digital environments.
+
+Instead of navigating flat links, users move through portals — entering worlds, brands, and experiences directly.
+
+---
+
+**Search. Enter. Experience.**
