@@ -2,7 +2,7 @@
   <img src="wrldgate-logo.png.PNG" width="220"/>
 </p>
 
-<h1 align="center">WRLDGATE™</h1>
+<h1 align="center">Search. Enter. Experience.</h1>
 
 <p align="center"><strong>The gateway to any world.</strong></p>
 
