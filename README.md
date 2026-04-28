@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/wrldgate-logo.png" width="260"/>
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/wrldgate-logo.png" width="240-280"/>
 </p>
 
 <h1 align="center">WRLDGATE™</h1>
