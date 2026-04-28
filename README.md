@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PASTE-RAW-URL-HERE" width="220"/>
+  <img src="wrldgate-logo.png.PNG" width="220"/>
 </p>
 
 <h1 align="center">WRLDGATE™</h1>
